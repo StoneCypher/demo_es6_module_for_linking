@@ -1,0 +1,30 @@
+{
+  "name": "demo_es6_module_for_linking",
+  "version": "1.0.0",
+  "description": "a trivial es6 module to show that any downstream linker consumes and exposes es6 from npm correctly",
+  "main": "demo_es6_module_for_linking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/demo_es6_module_for_linking.git"
+  },
+  "keywords": [
+    "demo",
+    "es6",
+    "module",
+    "linker",
+    "browserify",
+    "webpack",
+    "requirejs",
+    "rollup",
+    "rollupjs"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/demo_es6_module_for_linking/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/demo_es6_module_for_linking#readme"
+}
